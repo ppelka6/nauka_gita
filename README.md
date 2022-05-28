@@ -36,3 +36,6 @@ otwieramy edytor np. atom lu nano w katalogu glownym
 repozytorium
 
 atom . nano README.md
+
+Nadpisać zmiany potem 
+Nie moge wyjsc
